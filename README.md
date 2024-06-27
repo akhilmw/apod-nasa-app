@@ -25,8 +25,6 @@ The **NASA APOD** project showcases a new astronomy picture every day. Users can
 
 ## 🚀 Demo
 
-![NASA APOD Demo](https://react-nasa-apod-project.netlify.app/)
-
 Check out the live demo: [NASA APOD Demo](https://react-nasa-apod-project.netlify.app/)
 
 ## 🛠️ Technologies Used
